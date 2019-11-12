@@ -1,0 +1,13 @@
+server.port: 8888
+security.basic.enable: false
+management.security.enabled: false
+spring:
+   profiles:
+      active: native
+   cloud:
+      config:
+         server:
+            native:
+               #uri: https://github.com/ryanjbaxter/beginners-guide-to-spring-cloud
+               #searchPaths: beginners-guide-to-spring-cloud-config
+               searchLocations: file:///D:/Code/beginners-guide-to-spring-cloud/beginners-guide-to-spring-cloud-config
