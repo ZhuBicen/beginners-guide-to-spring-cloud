@@ -18,7 +18,7 @@ public class NameController {
 		this.nameProperties = nameProperties;
 	}
 
-	@RequestMapping
+	@RequestMapping("/")
 	public String getName() {
 		LOG.info("Name: " + nameProperties.getName());
 		return nameProperties.getName();

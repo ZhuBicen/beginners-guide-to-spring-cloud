@@ -21,7 +21,7 @@
 	<groupId>com.walle</groupId>
 	<artifactId>configserver</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Eureka</name>
+	<name>configserver</name>
 	<description>Config Server</description>
 
 
