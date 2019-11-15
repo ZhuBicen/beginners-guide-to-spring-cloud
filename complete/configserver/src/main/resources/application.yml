@@ -13,4 +13,4 @@ spring:
             native:
                #uri: https://github.com/ryanjbaxter/beginners-guide-to-spring-cloud
                #searchPaths: beginners-guide-to-spring-cloud-config
-               searchLocations: file:///D:/Code/beginners-guide-to-spring-cloud/beginners-guide-to-spring-cloud-config
+               searchLocations: file:///c:/code/beginners-guide-to-spring-cloud/beginners-guide-to-spring-cloud-config
